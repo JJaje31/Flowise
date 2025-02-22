@@ -99,6 +99,9 @@
                 {
                     "targets": {
                         "node": "current"
+                    },
+                    "engines":{
+                        "node": "8.1.x"
                     }
                 }
             ]
